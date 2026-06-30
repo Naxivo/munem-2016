@@ -1484,7 +1484,7 @@ console.log('✅ Script loaded successfully');
 // ═══════════════════════════════════════
 //  CONFIGURATION — Fill these values
 // ═══════════════════════════════════════
-const API_URL = "https://script.google.com/macros/s/AKfycbyqQIb2IDBfQy9OfxY6q1bsogoKnVVSAWwLEuSKziJAvL4ioR7l70d0laAIgScqCrbF/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbztVDlgRliw7jFgnpeyPrJtnMnZ-0H8zxDnHOQ_qAkX2UySFMjMjW1OdDFxqJmCyU2K/exec";
 const SECRET_TOKEN = "d6bf785b7cfcca40a85e3376cfb930da27a2842eb1d5a5b51105bf190edd07a2"; // ← paste your token here
 // ═══════════════════════════════════════
 //  API HELPER
